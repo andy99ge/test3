@@ -11,6 +11,12 @@ namespace myapp2
             var ts=DateTime.Now.ToString();
 
             Console.WriteLine("current imt is {0}",ts);
+
+
+
+            var id=Guid.NewGuid().ToString("N");
+
+            Console.WriteLine(id);
         }
     }
 }
