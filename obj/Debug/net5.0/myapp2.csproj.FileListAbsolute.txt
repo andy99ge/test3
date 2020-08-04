@@ -1,0 +1,13 @@
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.exe
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.deps.json
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.runtimeconfig.json
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.runtimeconfig.dev.json
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.dll
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\bin\Debug\net5.0\myapp2.pdb
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.AssemblyInfo.cs
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.dll
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.pdb
+C:\Users\Thinkpad\Desktop\test\myapp2\myapp2\obj\Debug\net5.0\myapp2.genruntimeconfig.cache
