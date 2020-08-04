@@ -7,6 +7,10 @@ namespace myapp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            var ts=DateTime.Now.ToString();
+
+            Console.WriteLine("current imt is {0}",ts);
         }
     }
 }
